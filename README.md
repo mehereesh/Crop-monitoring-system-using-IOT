@@ -1,6 +1,7 @@
 # Crop-monitoring-system-using-IOT
+# 🌱 IoT-Based Soil and Climate Monitoring System using ESP32
 Real time crop monitoring Using IOT
-# 🌡️ Temperature, Humidity, and Soil Moisture Monitoring System using ESP32 + Blynk
+##🌡️ Temperature, Humidity, and Soil Moisture Monitoring System using ESP32 + Blynk
 
 Monitor environmental data such as **temperature**, **humidity**, and **soil moisture** in real time using an **ESP32**, **DHT22**, and a **Soil Moisture Sensor**. The data is displayed live on the **Blynk IoT dashboard**.
 
