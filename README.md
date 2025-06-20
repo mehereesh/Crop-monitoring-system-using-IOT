@@ -50,6 +50,7 @@ Monitor environmental data such as **temperature**, **humidity**, and **soil moi
 | DO (Optional)    | (GPIO35)  |
 
 > ⚠️ Only AO is used for soil moisture percentage. DO can be used for threshold alerts if needed.
+
 ![WhatsApp Image 2025-06-20 at 17 55 23_2d2f4af1](https://github.com/user-attachments/assets/c7211bd0-91e5-4f0c-b02d-e544b0afebcd)
 
 ---
@@ -67,7 +68,8 @@ Monitor environmental data such as **temperature**, **humidity**, and **soil moi
 _Add screenshots here:_
 ![Screenshot (74)](https://github.com/user-attachments/assets/8893b2ca-8fc6-4c4a-88dc-55704a097bc9)
 
-![Screenshot (75)](https://github.com/user-attachments/assets/4b69a86c-b525-4a95-b598-56c584570bf0)
+
+![Screenshot (75)](https://github.com/user-attachments/assets/d3376e68-dab7-4186-a1e3-3df059c9089f)
 
 
 ---
